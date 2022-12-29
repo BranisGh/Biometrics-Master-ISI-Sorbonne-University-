@@ -8,6 +8,7 @@
 /300w_train_images.txt
 /300w_train_landmarks.txt
 /helen_testset_landmarks.txt
+/helen_testset.txt
 /ibug_landmarks.txt
 /ibug.txt
 /lfpw_testset_landmarks.txt
